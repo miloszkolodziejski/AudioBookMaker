@@ -2,7 +2,7 @@
 
 ![SampleJapanese](https://user-images.githubusercontent.com/59626117/109392666-b7d2f380-791d-11eb-980e-5792e77dbef3.PNG)
 
-The app allows text to be transformed into sound using artificial intelligence. With the app we can, for example, create an audiobook from our own text. You can upload a .pdf, .docx or .txt files.
+The app allows text to be transformed into sound using artificial intelligence. With the app we can, for example, create an audiobook from our own text. You can upload files with the following extensions: .pdf, .docx, .txt.
 
 The application recognises more than **170 languages**. It is currently possible to generate audio in **11 languages**:
   </br>   Arabic, 
