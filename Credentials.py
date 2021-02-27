@@ -2,4 +2,4 @@
 # https://cloud.ibm.com/catalog/services/text-to-speech
 
 apikey =''
-ulr =''
+url =''

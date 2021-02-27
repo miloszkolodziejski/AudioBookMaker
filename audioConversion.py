@@ -8,7 +8,7 @@ import voiceList
 def convert_audio(text, voice, language):
     authenticator = IAMAuthenticator(cr.apikey)
     tts = TextToSpeechV1(authenticator=authenticator)
-    tts.set_service_url(cr.ulr)
+    tts.set_service_url(cr.url)
 
     voiceName = None
     outputFileName = fileManager.saveFile()
